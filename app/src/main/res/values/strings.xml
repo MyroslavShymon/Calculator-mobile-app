@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="tab_text_1">Converter</string>
+    <string name="tab_text_2">Calculator</string>
+    <string name="tw1">Input value</string>
+    <string name="tw2">Result</string>
+    <string name="btn">Convert</string>
+    <string name="rb1">United States Dollar</string>
+    <string name="rb2">Euro </string>
+    <string name="rb3">Russian Ruble</string>
+    <string name="rb4">Polish Zloty</string>
+</resources>
